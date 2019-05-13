@@ -1,0 +1,3 @@
+rootProject.name = 'cut_the_crap_3283'
+
+include ':app'
